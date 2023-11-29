@@ -1,0 +1,450 @@
+ 
+
+ 
+
+ 
+
+ 
+
+How to Develop Work 
+Breakdown Structures 
+
+C:\Users\Mike\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low\Content.IE5\39E6V717\j0433151[1].jpg 
+
+
+ 
+
+Michael D. Taylor 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Copyright . 2003-2009 by Michael D. Taylor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Rights Reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form 
+or by any means -- graphic, electronic, or mechanical, including photocopying, recording, taping, or information 
+storage and retrieval system -- without written permission of Michael D. Taylor, Systems Management Services 
+(http://www.projectmgt.com). 
+
+ 
+
+ 
+
+
+ 
+
+WORK BREAKDOWN STRUCTURES 
+
+“A Work Breakdown Structure is a deliverable-oriented hierarchical decomposition of the work to be 
+executed by the project team to accomplish the project objectives and create the required deliverables.”1 
+
+1 A Guide to the Project Management Body of Knowledge, (Newton Square, PA: Project Management Institute, 2004). 
+
+ 
+
+A Work Breakdown Structure (WBS) is a fundamental project management 
+technique for defining and organizing the total scope of a project, using a 
+hierarchical tree structure. The first two levels of the WBS (the root node and 
+Level 2) define a set of planned outcomes that collectively and exclusively 
+represent 100% of the project scope. At each subsequent level, the children of a 
+parent node collectively and exclusively represent 100% of the scope of their 
+parent node. 
+
+A well-designed WBS describes planned outcomes instead of planned actions. 
+Outcomes are the desired ends of the project, such as a product, result, or service, 
+and can be predicted accurately. Actions, on the other hand, may be difficult to 
+predict accurately. A well-designed WBS makes it easy to assign any project 
+activity to one and only one terminal element of the WBS. 
+
+TYPES OF WORK BREAKDOWN STRUCTURES 
+
+Even though the term “Work Breakdown Structure” has been used as a label for 
+all project scope hierarchical diagrams, there are, in practice, many types other 
+than “deliverable” oriented structures. 
+
+
+Verb-oriented WBS: a task-oriented WBS defines the deliverable of project work 
+in terms of the actions that must be done to produce the deliverable. The first word 
+in a given WBS element usually is a verb, such as, design, develop, optimize, 
+transfer, test, etc. 
+
+Noun-oriented WBS: a deliverable-oriented WBS defines project work in terms of 
+the components (physical or functional) that make up the deliverable. In this case, 
+the first word in a given WBS element is a noun, such as, Module A, Subsystem 
+A, Automobile Engine, Antenna, etc. Since the nouns are usually parts of a 
+product, this WBS type is sometimes called a “Product Breakdown Structure 
+(PBS). Deliverable-oriented WBS structures are the preferred type according to 
+PMI’s definition. 
+
+Time-phased WBS: a “time-phased” WBS is one that is used on very long projects. 
+It breaks the project into major phases instead of tasks. In this type, a “rolling 
+wave” approach is adopted and only the near-term phase is planned in detail. 
+
+Other WBS types may include organization-types, geographical-types, cost 
+breakdown types, and profit-center types. 
+
+WBS DESIGN PRINCIPLES 
+
+The 100% Rule 
+
+One of the most important WBS design principles is called the 100% Rule. The 
+Practice Standard for Work Breakdown Structures (Second Edition), published by 
+the Project Management Institute (PMI) defines the 100% Rule as follows: 
+
+The 100% Rule...states that the WBS includes 100% of the work 
+defined by the project scope and captures ALL deliverables – 
+internal, external, interim – in terms of the work to be completed, 
+including project management. The 100% rule is one of the most 
+important principles guiding the development, decomposition and 
+evaluation of the WBS. The rule applies at all levels within the 
+hierarchy: the sum of the work at the “child” level must equal 100% 
+of the work represented by the “parent” and the WBS should not 
+include any work that falls outside the actual scope of the project, 
+that is, it cannot include more than 100% of the work… It is 
+important to remember that the 100% rule also applies to the activity 
+level. The work represented by the activities in each work package 
+must add up to 100% of the work necessary to complete the work 
+package. 
+
+ 
+
+
+Planned Outcomes, Not Planned Actions 
+
+The best way to adhere to the 100% Rule is to define WBS elements in 
+terms of outcomes or results. 
+
+If the WBS designer attempts to capture any action-oriented details in the WBS, 
+he/she will likely include either too many actions or too few actions. Too many 
+actions will exceed 100% of the parent's scope and too few will fall short of 100% 
+of the parent's scope. The best way to adhere to the 100% Rule is to define WBS 
+elements in terms of outcomes or results. This also ensures that the WBS is not 
+overly prescriptive of methods, allowing for greater ingenuity and creative 
+thinking on the part of the project participants. For new product development 
+projects, the most common technique to assure an outcome-oriented WBS is to 
+use a product breakdown structure (PBS). 
+
+Feature-driven software projects may use a similar technique which is to employ a 
+feature breakdown structure. When a project provides professional services, a 
+common technique is to capture all planned deliverables to create a deliverable-
+oriented WBS. Work breakdown structures that subdivide work by project phases 
+(e.g. Preliminary Design Phase, Critical Design Phase) must ensure that phases are 
+clearly separated by a deliverable (e.g. an approved Preliminary Design Review 
+document, or an approved Critical Design Review document). 
+
+Level 2 is the Most Important 
+
+Of all the levels on a WBS, Level-2 is often the most important because it 
+determines how actual costs and schedule data are grouped for future project cost 
+and schedule estimating. A project manager may find it useful to know how much 
+it took to design (major work element) a product after it had been completed so 
+that the data can be used for future analogous estimating. In other cases, the 
+project manager may want to know how much a major part of the product actually 
+cost after the project was completed. For this a PBS would be used. Level-2 is 
+therefore used to capture “actuals” from a project for future estimating purposes. 
+
+The Four Elements in Each WBS Element 
+
+Each WBS element, when completed should contain the following four items: 
+
+1. The scope of work, including any “deliverables.” 
+2. The beginning and end dates for the scope of work. 
+3. The budget for the scope of work. 
+4. The name of the person responsible for the scope of work. 
+
+
+By using a WBS in this manner the project manager can approach a complex 
+project and decompose it into manageable, assignable portions. There is minimal 
+confusion among project members when this technique is used. 
+
+ 
+
+
+Mutually-exclusive Elements 
+
+In addition to the 100% Rule, it is important that there is no overlap in scope 
+definition between two elements of a WBS. This ambiguity could result in 
+duplicated work or miscommunications about responsibility and authority. 
+Likewise, such overlap is likely to cause confusion regarding project cost 
+accounting. If the WBS element names are ambiguous, a WBS dictionary can help 
+clarify the distinctions between WBS elements 
+
+ 
+
+It is important that there is no overlap in scope definition between two 
+elements of a WBS. 
+
+ 
+
+ 
+
+How Far Down? 
+
+The WBS is decomposed down to the work package level. A work package is the 
+lowest level in the WBS, and is the point at which the cost and schedule for the 
+work can be reliably estimated.2 
+
+2 PMBOK 
+
+A question to be answered in the design of any WBS is when to stop dividing 
+work into smaller elements. If a WBS terminal elements are defined too broadly, it 
+may not be possible to track project performance effectively. If a WBS terminal 
+elements are too granular, it may be inefficient to keep track of so many terminal 
+elements, especially if the planned work is in the distant future. A satisfactory 
+tradeoff may be found in the concept of progressive elaboration which allows 
+WBS details to be progressively refined before work begins on an element of 
+work. 
+
+An effective limit of WBS granularity may be reached when it is no longer 
+possible to define planned outcomes, and the only details remaining are 
+actions 
+
+One form of progressive elaboration in large projects is called rolling wave 
+planning which establishes a regular time schedule for progressive elaboration. In 
+reality, an effective limit of WBS granularity may be reached when it is no longer 
+possible to define planned outcomes, and the only details remaining are actions. 
+Unless these actions can be defined to adhere to the 100% Rule, the WBS should 
+not be further subdivided. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+The 40-Hour Rule of Decomposition 
+
+Another rule-of-thumb for determining how far down a WBS should be 
+decomposed is called the “40 Hour Rule.” Generally, when a project has been 
+decomposed down to an element that has about 40 hours of allocated direct labor, 
+there is no need to decompose further. The 40 Hour Rule is based on a 40-hour 
+work week. Because of this, most WBS diagrams are not symmetrical. Some legs 
+may go down to Level-4 while others may go down to Level-5. 
+
+The 4% Rule of Decomposition 
+
+Gary Heerkens suggests a 4% Rule for decomposing a WBS. With this rule a 
+WBS is adequately decomposed when the lowest element is about 4% of the total 
+project. 3 For a 26-week schedule, the lowest element should be about one week. 
+For a $2.6M project, the lowest level should be about $104K. 
+
+WbsConstruction
+3 Gary R. Heerkens, Project Management (New York, NY: McGraw-Hill Publishers, 2002) p. 103, 122. 
+
+WBS Identification Numbering 
+
+It is common for WBS elements to be numbered sequentially to reveal the 
+hierarchical structure. For example 1.3.2 Rear Wheel identifies this item as a 
+Level 3 WBS element, since there are three numbers separated decimal point. A 
+coding scheme also helps WBS elements to be recognized in any written context. 
+
+ 
+
+Figure 1 WBS Construction Example 
+
+The above WBS is from PMI's Practice Standard for Work Breakdown Structures 
+(2nd Edition). This image illustrates an objective method of employing the 100% 
+Rule during WBS construction. 
+
+
+Figure 1 shows a WBS construction technique that demonstrates the 100% Rule 
+quantitatively. At the beginning of the design process, the project manager has 
+assigned 100 points to the total scope of this project, which is designing and 
+building a custom bicycle. At WBS Level 2, the 100 total points are subdivided 
+into seven comprehensive elements. The number of points allocated to each is a 
+judgment based on the relative effort involved; it is NOT an estimate of duration. 
+The three largest elements of WBS Level 2 are further subdivided at Level 3, and 
+so forth. The largest terminal elements at Level 3 represent only 17% of the total 
+scope of work. These larger elements may be further subdivided using the 
+progressive elaboration technique described above. 
+
+In this example, the WBS coding scheme includes a trailing "underscore" 
+character ("_") to identify terminal elements. This is a useful coding scheme 
+because planned project schedule activities (e.g. "Install inner tube and tire") will 
+be assigned to terminal elements instead of parent elements. 
+
+It is recommended that WBS design be initiated with interactive software (e.g. a 
+spreadsheet) that allows automatic rolling up of point values. Another 
+recommended practice is to discuss the point estimations with project team 
+members. This collaborative technique builds greater insight into scope 
+definitions, underlying assumptions, and consensus regarding the level of 
+granularity required to manage the project. 
+
+Another example of a Project WBS using the 100% Method is shown below. 
+
+ 
+PROJECT 1267(100%) 
+1267.1.1 
+Reqt’s Definition(7%)
+1267.1.2Regulations(5%) 
+1267.1.3Scheduling(5%) 
+1267.1.4 
+Mon & Control(5%) 
+1267.2.1Conceptual Design(5%) 
+1267.2.2Preliminary 
+Design(5%) 
+1267.2.3 
+Final Design 
+(5%)
+1267.3.1 
+Civil Engineering(7%) 
+1267.3.2Mechanical 
+Engineering(5%) 
+1267.3.3 
+ElectricalEngineering(3%) 
+1267.3.4Systems 
+Engineering(5%) 
+1267.4.1Foundation(7%) 
+1267.4.2Structures(5%) 
+1267.4.3Roads(5%) 
+1267.4.4Landscape(3%) 
+1267.5.1Safety Planning(4%) 
+1267.5.2Safety Documents(4%) 
+1267.5.3Inspections(4%) 
+1267.1.6Closeout(3%) 
+1267.1.5 
+Procurement 
+Management 
+(8%) 
+1267.1.0 
+Systems Integ.
+(33%) 
+1267.2.0 
+Design(15%) 
+1267.3.0 
+Engineering(20%) 
+1267.4.0 
+Construction(20%) 
+1267.5.0 
+Safety(12%) 
+
+
+
+COMMON PITFALLS AND MISCONCEPTIONS 
+
+A WBS is not an exhaustive list of work. It is instead a comprehensive 
+classification of project scope. 
+
+A WBS is not a project plan or a project schedule and it is not a chronological 
+listing. It is considered poor practice to construct a project schedule (e.g. using 
+project management software) before designing a proper WBS. This would be 
+similar to scheduling the activities of home construction before completing the 
+house design. Without concentrating on planned outcomes, it is very difficult to 
+follow the 100% Rule at all levels of the WBS hierarchy. It is not possible to 
+recover from an improperly defined WBS without starting over, so it is 
+worthwhile to finish the WBS design before starting a project plan or project 
+schedule. 
+
+A WBS is not an organizational hierarchy. Some practitioners make the mistake of 
+creating a WBS that shadows the organizational chart. While it is common for 
+responsibility to be assigned to organizational elements, a WBS that shadows the 
+organizational structure is not descriptive of the project scope and is not outcome-
+oriented. 
+
+Short-term memory capacity should not dictate the size and span of a WBS tree 
+structure. Some reference material suggests that each WBS level be limited to 5-9 
+elements because that is a theoretical limit to short-term memory. It is far more 
+important to construct a logical grouping of planned outcomes than to worry about 
+the limits of short-term human memory. 
+
+WBS updates, other than progressive elaboration of details, require formal change 
+control. This is another reason why a WBS should be outcome-oriented and not be 
+prescriptive of methods. Methods can and do change frequently, but changes in 
+planned outcomes require a higher degree of formality. If outcomes and actions 
+are blended, change control may be too rigid for actions and too informal for 
+outcomes. 
+
+WBS Checklist 
+
+. The top element of the WBS is the overall deliverable of the project, and all 
+stakeholders agree with it. 
+
+. The first two levels of the WBS (the root node and Level 2) define a set of 
+planned outcomes that collectively and exclusively represent 100% of the 
+project scope. 
+
+. The WBS elements are defined in terms of outcomes or results. (Outcomes are 
+the desired ends of the project, and can be predicted accurately). 
+
+. Each WBS element has an identification number assigned which identifies its 
+relative position within the structure. 
+
+
+. The WBS encompasses everything that will ultimately comprise the project 
+deliverable, and all deliverables in the project are included. 
+
+. Each WBS element contains the following four items: 
+
+. The scope of work, including any “deliverables.” 
+. The beginning and end dates for the scope of work. 
+. The budget for the scope of work. 
+. The name of the person responsible for the scope of work. 
+
+
+. There is no overlap in scope definition between two elements of a WBS. 
+
+. The WBS is not a project plan or a project schedule, and it is not a 
+chronological listing. 
+
+. In the judgment of all parties involved, the WBS has been decomposed and it 
+is no longer possible to define planned outcomes--the only details remaining 
+are actions. 
+
+. The WBS is not an exhaustive list of work. It is instead a comprehensive 
+classification of project scope. 
+
+. The WBS is not an organizational hierarchy. 
+
+. In the judgment of all parties involved, the WBS is neither over-simplified or 
+overly complex. It provides an adequate graphical or outline form for viewing 
+the overall scope of the project. 
+
+Where to Get More Information 
+
+. Carl L. Pritchard. Nuts and Bolts Series 1: How to Build a Work Breakdown Structure. ISBN 1-
+890367-12-5 
+. Dennis P. Miller, Visual Project Planning & Scheduling, Second Edition (2002). ISBN 0-9640630-2-
+6 (Note: This e-book is essential a facilator's guide for planning a project based on the WBS.) 
+. Gary R. Heerkens. Project Management. (New York, NY: McGraw-Hill Publishers, 2002). ISBN 0-
+07-137952-5. 
+. Gregory T. Haugan. Effective Work Breakdown Structures (The Project Management Essential 
+Library Series). ISBN 1-56726-135-3. 
+. Project Management Institute. Project Management Institute Practice Standard for Work Breakdown 
+Structures, Second Edition (2006). ISBN 1-933890-13-4 (Note: The Second Edition is an extensive 
+re-write of the Practice Standard). 
+. Robert Wysocki. Effective Project Management: Traditional, Adaptive, Extreme. Indianapolis, IN: 
+Wiley Publishing, 2003. 
+
+
+ 
+
+
